@@ -171,7 +171,9 @@ public enum ZeroConfigHeader implements TableHeader {
 
 The default cell type is `StandardTableCell` which allows clicking and reading the values from typical table cells. You can inherite it to create new types of cells. 
 
-## Example Projrct
+## Example Project
+
+Please refer to the [example project](https://github.com/Top-Q/webdriver-datatables/tree/master/webdriver-datatables-examples) for more information
 
 
 
