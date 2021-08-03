@@ -74,7 +74,7 @@ In your pom file
     <dependency>
         <groupId>il.co.topq</groupId>
         <artifactId>webdriver-datatables</artifactId>
-        <version>1.0.00</version>
+        <version>1.0</version>
     </dependency>
 .
 ```
